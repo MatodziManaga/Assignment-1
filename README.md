@@ -1,6 +1,6 @@
 # Assignment-1
 Repo for Assignment 1 submissions
-MainActivity.kt
+com/example/assignment/MainActivity.kt
 
 package com.example.assignment
 
@@ -77,8 +77,8 @@ class MainActivity : AppCompatActivity() {
 
 # Assignment-1
 Repo for Assignment 1 submissions
+layout/activity_main.xml
 
-activity_nain.xml
 
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
